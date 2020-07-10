@@ -127,3 +127,7 @@ t_train = t[0:round(0.8*len(t))]
 y_test = y[round(0.8*len(y)):len(y)]
 x_test = x[round(0.8*len(x)):len(x)]
 t_test = t[round(0.8*len(t)):len(t)]
+
+df = pd.DataFrame([t, x, y])
+df.to_csv("preparedData.csv", index=False, sep=";")
+
