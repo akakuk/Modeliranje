@@ -7,10 +7,13 @@ from statsmodels.tsa.ar_model import AutoReg #ARX
 from statsmodels.tsa.arima_model import ARMA #ARMAX
 from statsmodels.tsa.arima_model import ARIMA #drugi naziv za box-jenkins
 
+
 data = pd.read_csv("preparedData.csv", sep = ";", header = None, names = ["t", "x", "y"])
 t = data["t"].astype(float)
 x = data["x"].astype(float)
 y = data["y"].astype(float)
+
+
 
 # # contrived dataset
 # # fit model

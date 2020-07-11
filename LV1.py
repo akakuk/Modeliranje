@@ -3,6 +3,7 @@ import scipy.stats as stat
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import csv
 
 
 def normalizeData(inVector, lBound = 0, uBound = 1):
@@ -129,5 +130,5 @@ x_test = x[round(0.8*len(x)):len(x)]
 t_test = t[round(0.8*len(t)):len(t)]
 
 df = pd.DataFrame([t, x, y])
-df.to_csv("preparedData.csv", index=False, sep=";")
-
+df = df.transpose()
+df.to_csv("preparedData.csv", index=False, sep=";", header = False)
