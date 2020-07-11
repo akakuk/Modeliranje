@@ -1,0 +1,4 @@
+Best ARX order is:Best ARX order is:[1]with mean absolute error of: 0.02852101925391111
+Best ARMAX order is:[1, 1]with mean absolute error of: 0.02852101925391111
+Best ARIMAX order is:[5, 1, 5]with mean absolute error of: 0.5002259179776951
+Best model is ARX
