@@ -1,0 +1,107 @@
+THIS IS A SUBSET OF THE ORIGINAL BODY DATASET!!!!
+
+NAME: Exploring Relationships in Body Dimensions
+TYPE: Observational
+SIZE: 507 Observations, 17 Variables
+
+DESCRIPTIVE ABSTRACT:
+
+This dataset contains 13 body dimension measurements as well as age, 
+weight, height, and gender on 507 individuals. The 247 men and 260 
+women were primarily individuals in their twenties and thirties, with a 
+scattering of older men and women, all exercising several hours a week.
+
+SOURCE:
+
+Measurements were initially taken by the first two authors - Grete 
+Heinz and Louis J. Peterson - at San Jose State University and at the 
+U.S. Naval Postgraduate School in Monterey, California. Later, 
+measurements were taken at dozens of California health and fitness 
+clubs by technicians under the supervision of one of these authors.
+
+VARIABLE DESCRIPTIONS:
+
+Columns     Variable
+
+            Skeletal Measurements:
+
+  1	    	Biacromial diameter (razmak izmeðu ramena) 
+   
+            Girth Measurements:
+
+  2         Shoulder girth over deltoid muscles (opseg ramena)
+  3			Chest girth, nipple line in males and just above breast 
+            tissue in females, mid-expiration (opseg prsa)
+  4   		Waist girth, narrowest part of torso below the rib cage, 
+            average of contracted and relaxed position (opseg struka)
+  5   		Navel (or "Abdominal") girth at umbilicus and iliac crest, 
+            iliac crest as a landmark (opseg struka oko pupka)
+  6   		Hip girth at level of bitrochanteric diameter (opseg bokova)
+  7   		Thigh girth below gluteal fold, average of right and left 
+            girths (opseg bedra)
+  8   		Bicep girth, flexed, average of right and left girths (opseg bicepsa)
+  9   		Forearm girth, extended, palm up, average of right and 
+            left girths (opseg podlaktice)
+  10   		Knee girth over patella, slightly flexed position, average 
+            of right and left girths (opseg koljena ispod èašice)
+  11   		Calf maximum girth, average of right and left girths (max. opseg lista)
+  12   		Ankle minimum girth, average of right and left girths (min. opseg gležnja)
+  13   		Wrist minimum girth, average of right and left girths (opseg zapešæa)
+
+            Other Measurements:
+
+  14    	Age (years)
+  15    	Weight (kg)
+  16    	Height (cm)
+  17        Gender (1 - male, 0 - female)
+
+The first 13 variables are all measured in centimeters (cm).
+
+
+STORY BEHIND THE DATA:
+
+The first two authors investigated the correspondence between frame 
+size, girths, and weight of physically active young men and women, most 
+of whom were within normal weight range. One goal of this investigation 
+was to develop predictive techniques to assess the lean/fat body 
+composition of individuals. 
+
+PEDAGOGICAL NOTES:
+
+These data can be used to provide statistics students practice in the art 
+of data analysis. Such analyses range from simple descriptive displays 
+to more complicated multivariate analyses such as multiple regression 
+and discriminant analysis.
+
+SUBMITTED BY:
+
+Grete Heinz
+24710 Upper Trail
+Carmel, CA  93923
+USA
+goguh@aol.com
+
+Louis J. Peterson
+Department of Health Sciences
+San José State University
+One Washington Square
+San José, California 95192
+USA
+
+Roger W. Johnson
+Department of Mathematics and Computer Science
+South Dakota School of Mines and Technology
+501 East St. Joseph Street
+Rapid City, South Dakota 57701
+USA
+Roger.Johnson@sdsmt.edu
+
+Carter J. Kerk
+Industrial Engineering Program
+South Dakota School of Mines and Technology
+501 East St. Joseph Street
+Rapid City, South Dakota 57701
+USA
+Carter.Kerk@sdsmt.edu
+
+--

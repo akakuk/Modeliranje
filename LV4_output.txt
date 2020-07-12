@@ -1,0 +1,112 @@
+Mean male razmak izmedu ramena : 41.241295546558696
+Median male razmak izmedu ramena : 41.2
+Standard deviation male razmak izmedu ramena : 2.082935084075856
+Mean female razmak izmedu ramena : 36.503076923076925
+Median female razmak izmedu ramena : 36.4
+Standard deviation female razmak izmedu ramena : 1.775796179465965
+
+Mean male opseg ramena : 116.50161943319837
+Median male opseg ramena : 116.5
+Standard deviation male opseg ramena : 6.484856027802217
+Mean female opseg ramena : 100.30384615384615
+Median female opseg ramena : 99.5
+Standard deviation female opseg ramena : 6.458142193519431
+
+Mean male opseg prsa : 100.98987854251013
+Median male opseg prsa : 101.0
+Standard deviation male opseg prsa : 7.1944098565225385
+Mean female opseg prsa : 86.06
+Median female opseg prsa : 85.5
+Standard deviation female opseg prsa : 6.158528795343652
+
+Mean male opseg struka : 84.53319838056679
+Median male opseg struka : 83.4
+Standard deviation male opseg struka : 8.76444505133161
+Mean female opseg struka : 69.80346153846153
+Median female opseg struka : 68.3
+Standard deviation female opseg struka : 7.5731425457171655
+
+Mean male opseg struka oko pupka : 87.66234817813765
+Median male opseg struka oko pupka : 87.3
+Standard deviation male opseg struka oko pupka : 8.36788729643854
+Mean female opseg struka oko pupka : 83.74576923076924
+Median female opseg struka oko pupka : 82.35
+Standard deviation female opseg struka oko pupka : 9.942458554129946
+
+Mean male opseg bokova : 97.76315789473684
+Median male opseg bokova : 97.4
+Standard deviation male opseg bokova : 6.215422485026818
+Mean female opseg bokova : 95.6526923076923
+Median female opseg bokova : 94.95
+Standard deviation female opseg bokova : 6.92736716425529
+
+Mean male opseg bedra : 56.497975708502025
+Median male opseg bedra : 56.0
+Standard deviation male opseg bedra : 4.238062056095068
+Mean female opseg bedra : 57.19576923076923
+Median female opseg bedra : 56.4
+Standard deviation female opseg bedra : 4.627079717918887
+
+Mean male opseg bicepsa : 34.40364372469636
+Median male opseg bicepsa : 34.4
+Standard deviation male opseg bicepsa : 2.9759948635244275
+Mean female opseg bicepsa : 28.097307692307695
+Median female opseg bicepsa : 27.8
+Standard deviation female opseg bicepsa : 2.7042616761359746
+
+Mean male opseg podlaktice : 28.240485829959514
+Median male opseg podlaktice : 28.4
+Standard deviation male opseg podlaktice : 1.775719209598655
+Mean female opseg podlaktice : 23.760384615384616
+Median female opseg podlaktice : 23.6
+Standard deviation female opseg podlaktice : 1.679012944397875
+
+Mean male opseg koljena ispod casice : 37.19554655870445
+Median male opseg koljena ispod casice : 37.0
+Standard deviation male opseg koljena ispod casice : 2.2683931972268385
+Mean female opseg koljena ispod casice : 35.25999999999999
+Median female opseg koljena ispod casice : 35.0
+Standard deviation female opseg koljena ispod casice : 2.5731184313082953
+
+Mean male max. opseg lista : 37.20688259109311
+Median male max. opseg lista : 37.3
+Standard deviation male max. opseg lista : 2.6397754011281687
+Mean female max. opseg lista : 35.00615384615385
+Median female max. opseg lista : 34.849999999999994
+Standard deviation female max. opseg lista : 2.6081013974552993
+
+Mean male min. opseg gleznja : 23.159109311740888
+Median male min. opseg gleznja : 23.0
+Standard deviation male min. opseg gleznja : 1.725583870029036
+Mean female min. opseg gleznja : 21.20576923076923
+Median female min. opseg gleznja : 21.1
+Standard deviation female min. opseg gleznja : 1.436048727148756
+
+Mean male opseg zapesca : 17.190283400809715
+Median male opseg zapesca : 17.1
+Standard deviation male opseg zapesca : 0.9061568090562255
+Mean female opseg zapesca : 15.05923076923077
+Median female opseg zapesca : 15.0
+Standard deviation female opseg zapesca : 0.8477750203958009
+
+Mean male age : 31.668016194331983
+Median male age : 29.0
+Standard deviation male age : 10.130879824774807
+Mean female age : 28.76923076923077
+Median female age : 26.0
+Standard deviation female age : 8.836148187581475
+
+Mean male weight : 78.14453441295547
+Median male weight : 77.3
+Standard deviation male weight : 10.491587167890629
+Mean female weight : 60.60038461538462
+Median female weight : 59.0
+Standard deviation female weight : 9.597189083977113
+
+Mean male height : 177.74534412955467
+Median male height : 177.8
+Standard deviation male height : 7.169072166729617
+Mean female height : 164.87230769230771
+Median female height : 164.5
+Standard deviation female height : 6.532004232235373
+
