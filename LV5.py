@@ -8,10 +8,10 @@ import pandas as pd
 from sklearn.cluster import KMeans
 from sklearn.mixture import GaussianMixture
 from sklearn.metrics import silhouette_samples, silhouette_score
+
+
 data = sio.loadmat("bodydata.mat")
-
 bodyData = data["bodydata"]
-
 attributes = ["razmak izmedu ramena", "opseg ramena", "opseg prsa", "opseg struka", "opseg struka oko pupka", "opseg bokova", "opseg bedra", "opseg bicepsa", "opseg podlaktice", "opseg koljena ispod casice", "max. opseg lista", "min. opseg gleznja", "opseg zapesca", "age", "weight", "height"]
 
 scaler = StandardScaler()

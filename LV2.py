@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from statsmodels.tsa.ar_model import AutoReg #ARX
 from statsmodels.tsa.arima_model import ARMA #ARMAX
 from statsmodels.tsa.arima_model import ARIMA #drugi naziv za box-jenkins
+from sklearn.preprocessing import StandardScaler
 
 
 data = pd.read_csv("preparedData.csv", sep = ";", header = None, names = ["t", "x", "y"])
@@ -15,6 +16,10 @@ y = data["y"].astype(float)
 x = x.tolist()
 y = y.tolist()
 t = t.tolist()
+
+scaler = StandardScaler()
+scaler.fit([x,y,t])
+[x,y,t] = scaler.transform([x,y,t])
 
 yTrain = y[0:round(0.8*len(y))]
 xTrain = x[0:round(0.8*len(x))]

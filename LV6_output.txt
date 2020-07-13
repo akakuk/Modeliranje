@@ -1,0 +1,6 @@
+Best n Neighbours parametar is : 3
+With cross validation mean : 0.9763152785866822
+Best SVM gamma parametar is : 0.002
+With cross validation mean : : 0.9822364589400117
+General regresion MSE is : 0.002
+SVR MSE is : 9.431797148256143
