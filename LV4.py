@@ -3,7 +3,6 @@ import numpy as np
 import xlsxwriter
 import matplotlib.pyplot as plt
 from statsmodels.distributions.empirical_distribution import ECDF
-from mpl_toolkits.axes_grid1 import make_axes_locatable
 import seaborn as sns
 
 data = sio.loadmat("bodydata.mat")
